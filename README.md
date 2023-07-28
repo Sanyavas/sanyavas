@@ -25,7 +25,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /> </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyavas)](https://github.com/sanyavas/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyavas&layout=compact)](https://github.com/sanyavas/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyavas)](https://github.com/sanyavas/github-readme-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/sanyavas/github-readme-quotes)
