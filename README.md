@@ -1,6 +1,4 @@
-# H E L L O __ W O R L D. 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236c7c&lines=Hello+I'm+Sanyavas+Python+Developer)](https://git.io/typing-svg)
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
