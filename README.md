@@ -27,3 +27,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyavas)](https://github.com/sanyavas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyavas&layout=compact)](https://github.com/sanyavas/github-readme-stats)
