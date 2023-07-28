@@ -40,4 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=transparent" alt="sanyavas" height="160" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=transparent&locale=en&layout=compact" alt="sanyavas" height="160" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyavas)](https://github.com/sanyavas/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /> </p>
