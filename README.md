@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236c7c&lines=Hello!+I'm+Sanyavas+Python+Developer)](https://git.io/typing-svg)
 
-<h3 align="left"> ⚡ Learning Languages and Tools:</h3>
+### ⚡ Learning Languages and Tools:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="90" height="30"/> </a> 
@@ -10,7 +10,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=transparent" alt="sanyavas" height="160" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=transparent&locale=en&layout=compact" alt="sanyavas" height="160" /></p>
 
-# ⚡ Technologies
+### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
