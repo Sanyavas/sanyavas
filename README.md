@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236c7c&lines=Hello!+I'm+Sanyavas+Python+Developer)](https://git.io/typing-svg)
 
 ### ⚡ Technologies:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -23,4 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=transparent" alt="sanyavas" height="160" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=transparent&locale=en&layout=compact" alt="sanyavas" height="160" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /> </p>
