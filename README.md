@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=transparent&locale=en&layout=compact" alt="sanyavas" height="160" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /> </p>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white)](https://github.com/sanyavas/github-readme-quotes)
