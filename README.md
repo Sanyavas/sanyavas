@@ -1,4 +1,4 @@
-### H E L L O   W O R L D 👋
+### H E L L O __ W O R L D 👋
 
 <!--
 **Sanyavas/sanyavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
