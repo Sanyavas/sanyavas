@@ -36,7 +36,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=merko" alt="sanyavas" height="160" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=merko&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=merko&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br><br></p>
 
 <p align="center"> 
   Visitor count<br>
