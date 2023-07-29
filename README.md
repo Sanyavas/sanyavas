@@ -20,7 +20,7 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="flask" width="90" height="30"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=darck" alt="sanyavas" height="160" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=radical" alt="sanyavas" height="160" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=transparent&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br><br><br><br><br></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /></p>
