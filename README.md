@@ -26,7 +26,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### ⚡ Learning Languages and Tools:
 <p align="left"> 
@@ -39,3 +39,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=merko&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br><br><br><br><br></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /></p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sanyavas/count.svg" />
+</p>
