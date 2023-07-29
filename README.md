@@ -13,6 +13,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
 
 ### ⚡ Learning Languages and Tools:
 <p align="left"> 
