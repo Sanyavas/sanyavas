@@ -43,3 +43,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sanyavas/count.svg" />
 </p>
+<p align="center">
+<a href="https://now-playing-66mfrri4j-sanyavas.vercel.app/now-playing?open">
+    <img src="https://now-playing-66mfrri4j-sanyavas.vercel.app/now-playing" width="512" height="128">
+</a>
+</p>
