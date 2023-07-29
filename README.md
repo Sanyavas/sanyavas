@@ -21,6 +21,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=merko" alt="sanyavas" height="160" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br><br><br><br><br></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br><br><br><br><br></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /></p>
