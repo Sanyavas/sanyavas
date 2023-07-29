@@ -24,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=merko&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br><br><br><br><br></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyavas&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyavas" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanyavas&theme=dark&background=000000)](https://git.io/streak-stats)
