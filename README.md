@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236c7c&lines=Hello!+I'm+Sanyavas+Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7C500&weight=700&lines=Hello!+I'm+Sanyavas+Python+Developer)](https://git.io/typing-svg)
 
 ### ⚡ Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
