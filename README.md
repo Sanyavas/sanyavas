@@ -43,3 +43,4 @@
   <img src="https://profile-counter.glitch.me/sanyavas/count.svg" />
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/sanyavas/sanyavas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sanyavas/sanyavas/output/github-contribution-grid-snake.svg#gh-light-mode-only)
