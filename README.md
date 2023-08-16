@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark)
+
 ### ⚡ Learning Languages and Tools:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" width="120" height="30"/> </a> 
@@ -39,7 +39,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=merko" alt="sanyavas" height="160" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=merko&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br><br><br><br></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="160" /><br><br><br><br><br><br><br></p>
 
 
 <p align="left"> 
