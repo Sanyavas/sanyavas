@@ -37,7 +37,7 @@
 /-->
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dm4wlqihl/image/upload/v1691423532/pictures/wytuvl8ow7wx5f2taavm.png" alt="fastapi" width="120" height="30"/> </a> 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyavas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=merko" alt="sanyavas" height="160" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyavas&show_icons=true&theme=merko&locale=en&layout=compact" alt="sanyavas" height="160" /><br><br><br><br><br><br><br></p>
