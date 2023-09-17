@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://i.pinimg.com/564x/fa/dc/86/fadc869dea2dbedf7368af2f50d574da.jpg"/> </p> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7C500&pause=2000&weight=700&lines=Hello!+I'm+Sanyavas+Python+Developer)](https://git.io/typing-svg)
 
