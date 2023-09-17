@@ -1,4 +1,4 @@
-
+<p align="center"> <img src="https://i.pinimg.com/564x/b9/93/cd/b993cd73d14219eaee2d309319770e0a.jpg"/> </p> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7C500&pause=2000&weight=700&lines=Hello!+I'm+Sanyavas+Python+Developer)](https://git.io/typing-svg)
 
 ### ⚡ Technologies:
