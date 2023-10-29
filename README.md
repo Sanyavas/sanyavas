@@ -38,7 +38,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" height="30"/>
 </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="border: none;">
-    <img src="http://res.cloudinary.com/dm4wlqihl/image/upload/v1691423532/pictures/wytuvl8ow7wx5f2taavm.png" alt="fastapi" width="120" height="30"/> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="120" height="30"/> 
 </a> 
 </p>
 
