@@ -31,7 +31,7 @@
 
 ### ⚡ Learning Languages and Tools:
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="border: none;">
+<a href="https://www.python.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" height="30"/>
 </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer" style="border: none;">
