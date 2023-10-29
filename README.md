@@ -39,8 +39,8 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dm4wlqihl/image/upload/v1691423532/pictures/wytuvl8ow7wx5f2taavm.png" alt="fastapi" width="120" height="30"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=merko" alt="sanyavas" height="160" /></p>
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=merko" alt="sanyavas" height="160" /><br><br><br><br><br><br><br></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanyavas&show_icons=true&theme=dark" alt="sanyavas" height="160" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=dark" alt="sanyavas" height="160" /><br><br><br><br><br><br><br></p>
 
 
 <p align="left"> 
