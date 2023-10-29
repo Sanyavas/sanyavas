@@ -35,7 +35,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" height="30"/>
 </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer" style="border: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" height="30"/>
+    <img src="https://w7.pngwing.com/pngs/271/664/png-transparent-django-line-logo-icon-thumbnail.png" alt="django" height="30"/>
 </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/> 
