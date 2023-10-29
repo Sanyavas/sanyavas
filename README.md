@@ -44,7 +44,7 @@
 <p align="left"> 
     <a href="https://www.python.org" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" height="40"/></a>
     <a href="https://www.djangoproject.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="60"/></a> 
+    <a href="https://fastapi.tiangolo.com" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="50"/></a> 
 </p>
 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /></p>
