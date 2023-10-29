@@ -30,7 +30,7 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
 
 ### ⚡ Learning Languages and Tools:
-<div align="left"> 
+<p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" height="30"/>
 </a>
@@ -40,7 +40,7 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="border: none;">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/> 
 </a> 
-</div>
+</p>
 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /><br><br><br><br><br><br><br></p>
