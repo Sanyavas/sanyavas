@@ -4,7 +4,6 @@
 ### ⚡ Technologies:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=plastic&logo=Windows%2011&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Golang](https://hub.docker.com/api/media/repos_logo/v1/library%2Fgolang)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -35,6 +34,7 @@
 
 <p align="left"> 
     <a href="https://www.python.org" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" height="40"/></a>
+    <a><img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fgolang" alt="golang" height="50"></></a>
     <a href="https://www.djangoproject.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" height="40"/></a>
     <a href="https://fastapi.tiangolo.com" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="50"/></a>
     <a href="https://www.javascript.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg" alt="javascript" height="40"/></a>
