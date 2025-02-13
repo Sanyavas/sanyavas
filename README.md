@@ -4,6 +4,7 @@
 ### ⚡ Technologies:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=plastic&logo=Windows%2011&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Golang](https://hub.docker.com/api/media/repos_logo/v1/library%2Fgolang)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
