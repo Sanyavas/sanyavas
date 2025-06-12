@@ -33,13 +33,13 @@
 ### ⚡ Learning Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.python.org" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" height="40"/></a>
+    <a href="https://www.python.org" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="python" height="40"/></a>
     <a href="https://go.dev" rel="noreferrer"><img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fgolang" alt="golang" height="40"></></a>
     <a href="https://www.javascript.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg" alt="javascript" height="40"/></a>
     <a href="https://www.w3.org/html/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></a>
     <a href="https://www.w3schools.com/css/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/></a>
-    <a href="https://www.djangoproject.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" height="35"/></a>
-    <a href="https://fastapi.tiangolo.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" height="30"/></a>
+    <a href="https://www.djangoproject.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" alt="django" height="40"/></a>
+    <a href="https://fastapi.tiangolo.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="fastapi" height="40"/></a>
     <a href="https://www.docker.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/></a>
     <a href="https://www.postgresql.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
