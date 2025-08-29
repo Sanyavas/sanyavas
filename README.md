@@ -53,17 +53,10 @@
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /><br><br><br><br><br><br><br></p>
 
-<p>
-  <a href="https://u8views.com/github/Sanyavas">
-    <img src="https://u8views.com/api/v1/github/profiles/113465081/views/day-week-month-total-count.svg" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sanyavas&label=Profile%20views&color=00ff00&style=for-the-badge" />
-</p>
+<a href="https://u8views.com/github/Sanyavas">
+  <img src="https://u8views.com/api/v1/github/profiles/113465081/views/day-week-month-total-count.svg">
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Sanyavas&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge" />
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSanyavas&count_bg=%2300FF00&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=false" />
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Sanyavas.Sanyavas&title=PROFILE%20VIEWS&color=00ff00" />
 
 
 
