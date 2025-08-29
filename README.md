@@ -53,9 +53,16 @@
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /><br><br><br><br><br><br><br></p>
 
-<a href="https://u8views.com/github/Sanyavas">
-  <img src="https://komarev.com/ghpvc/?username=Sanyavas&label=Profile%20views&color=8A2BE2&style=for-the-badge" />
-</a>
+<p align="left">
+  <!-- u8views (його стиль незмінний) -->
+  <a href="https://u8views.com/github/Sanyavas">
+    <img src="https://u8views.com/api/v1/github/profiles/113465081/views/day-week-month-total-count.svg" alt="Views: day / week / month / total">
+  </a>
+  <!-- Додатковий бейдж у темних кольорах, щоб візуально “підтримати” u8views -->
+  <img alt="Stats theme"
+       src="https://img.shields.io/badge/GitHub%20Stats-dark-2f81f7?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=ffffff" />
+</p>
+
 
 
 
