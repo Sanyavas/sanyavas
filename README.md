@@ -53,5 +53,5 @@
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /><br><br><br><br><br><br><br></p>
 
-[![Vasylyna Oleksandr profile views](https://u8views.com/api/v1/github/profiles/96999713/views/day-week-month-total-count.svg)](https://u8views.com/github/sanyavas)
+[![Vasylyna Oleksandr profile views](https://u8views.com/api/v1/github/profiles/96999713/views/day-week-month-total-count.svg)](https://u8views.com/github/Sanyavas)
 
