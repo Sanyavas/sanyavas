@@ -60,6 +60,11 @@
   <img src="https://komarev.com/ghpvc/?username=Sanyavas&label=Profile%20views&color=00ff00&style=for-the-badge" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Sanyavas&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSanyavas&count_bg=%2300FF00&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=false" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sanyavas.Sanyavas&title=PROFILE%20VIEWS&color=00ff00" />
+
 
 
 
