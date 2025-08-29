@@ -55,7 +55,7 @@
 
 <p align="left">
     <!-- Додатковий бейдж у темних кольорах, щоб візуально “підтримати” u8views -->
-  <a><img src="https://img.shields.io/badge/GitHub%20Stats-Views-2f81f7?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=ffffff" /></a> 
+  <a><img src="https://img.shields.io/badge/GitHub%20Stats-2f81f7?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=ffffff" /></a> 
   <!-- u8views (його стиль незмінний) -->
   <a href="https://u8views.com/github/Sanyavas"><img src="https://u8views.com/api/v1/github/profiles/113465081/views/day-week-month-total-count.svg" alt="Views: day / week / month / total"/></a>
   
