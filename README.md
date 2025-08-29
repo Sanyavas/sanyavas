@@ -56,7 +56,7 @@
 
 <p align="left">
   <a href="https://u8views.com/github/Sanyavas"><img src="https://u8views.com/api/v1/github/profiles/113465081/views/day-week-month-total-count.svg" alt="Views: day / week / month / total"/></a>
-  <p><img src="https://img.shields.io/badge/Glory%20to Ukraine-ffd700?style=for-the-badge&labelColor=0057b8&logo=github&logoColor=ffffff" /></p> 
+  <p><img src="https://img.shields.io/badge/СЛАВА%20УКРАЇНІ-ffd700?style=for-the-badge&labelColor=0057b8&logo=github&logoColor=ffffff" /></p> 
 </p>
 
 
