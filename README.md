@@ -63,5 +63,17 @@
        src="https://img.shields.io/badge/GitHub%20Stats-dark-2f81f7?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=ffffff" />
 </p>
 
+<img
+  src="https://komarev.com/ghpvc/?username=Sanyavas&label=Profile%20views&color=2f81f7&style=for-the-badge"
+  alt="Profile views badge" />
+
+<p align="left">
+  <a href="https://u8views.com/github/Sanyavas">
+    <img src="https://u8views.com/api/v1/github/profiles/113465081/views/day-week-month-total-count.svg" alt="Views: day/week/month/total">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sanyavas&label=Profile%20views&color=2f81f7&style=for-the-badge" alt="Profile views">
+</p>
+
+
 
 
