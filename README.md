@@ -53,5 +53,8 @@
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /><br><br><br><br><br><br><br></p>
 
-<a href="https://u8views.com/github/Sanyavas"><img src="https://u8views.com/api/v1/github/profiles/113465081/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/Sanyavas">
+  <img src="https://u8views.com/api/v1/github/profiles/113465081/views/day-week-month-total-count.svg?theme=dark&color=00ff00&labelColor=222222&style=for-the-badge">
+</a>
+
 
