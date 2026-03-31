@@ -50,8 +50,8 @@
 <!--     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> -->
 </p>
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140"/></p>
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /><br><br><br><br><br><br><br></p>
+<!-- <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140"/></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /><br><br><br><br><br><br><br></p> -->
 
 
 <p align="left">
