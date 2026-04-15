@@ -32,22 +32,20 @@
 
 ### ⚡ Learning Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.python.org" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="python" height="40"/></a>
-    <a href="https://go.dev" rel="noreferrer"><img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fgolang" alt="golang" height="40"></></a>
-    <a href="https://www.javascript.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg" alt="javascript" height="40"/></a>
-    <a href="https://www.w3.org/html/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/></a>
-    <a href="https://www.djangoproject.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django.svg" alt="django" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="fastapi" height="40"/></a>
-    <a href="https://www.docker.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/></a>
-    <a href="https://www.postgresql.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="40" alt="Bootstrap"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40" alt="Figma"/></a>
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" height="40" alt="Google Cloud"/></a>
-<!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" height="40" alt="Docker" /></a> -->
-<!--     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> -->
+<p align="left">
+  <a href="https://www.python.org" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="python" width="40"/></a>
+  <a href="https://go.dev" rel="noreferrer"><img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fgolang" alt="golang" width="40"/></a>
+  <a href="https://www.javascript.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg" alt="javascript" width="40"/></a>
+  <a href="https://www.w3.org/html/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></a>
+  <a href="https://www.w3schools.com/css/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></a>
+  <a href="https://www.djangoproject.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django.svg" alt="django" width="40"/></a>
+  <a href="https://fastapi.tiangolo.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="fastapi" width="40"/></a>
+  <a href="https://www.docker.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/></a>
+  <a href="https://www.postgresql.org" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"/></a>
+  <a href="https://git-scm.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40"/></a>
+  <a href="https://getbootstrap.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="40"/></a>
+  <a href="https://www.figma.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="40"/></a>
+  <a href="https://cloud.google.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" width="40"/></a>
 </p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanyavas&theme=solarized_dark" alt="sanyavas" height="140"/></p>
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyavas&theme=solarized_dark" alt="sanyavas" height="140" /><br><br><br><br><br><br><br></p>
